@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\2000n\onedrive\デスクトップ\制作物\skinmesh\skinmesh\main.cpp(91): warning C4838: 'int' から 'UINT' への変換には縮小変換が必要です
+  skinmesh.vcxproj -> C:\Users\2000n\OneDrive\デスクトップ\制作物\skinmesh\Debug\skinmesh.exe
+  skinmesh.vcxproj -> C:\Users\2000n\OneDrive\デスクトップ\制作物\skinmesh\Debug\skinmesh.pdb (Full PDB)
